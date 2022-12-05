@@ -1,2 +1,7 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# How to use
+
+Open **lib/word_counter.dart**
+
+finish all task.
+
+and run **dart test** on your terminal
